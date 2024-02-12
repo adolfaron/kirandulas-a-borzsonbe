@@ -1,0 +1,20 @@
+body{
+    background-color: white;
+}
+#container{
+    background-color: rgb(198, 255, 228);
+    width: auto;
+}
+#cim{
+    text-align: center;
+    font-size: 25px;
+}
+#helyek{
+    padding: 20px;
+}
+li{
+    font-weight: 500;
+}
+#térlép{
+    img-align: center;
+}
