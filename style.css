@@ -3,7 +3,7 @@ body{
 }
 #container{
     background-color: rgb(198, 255, 228);
-    width: auto;
+    width: 800px;
 }
 #cim{
     text-align: center;
@@ -18,8 +18,10 @@ li{
 #térlép{
     }
 ul img{
-    width: 150px;
-    margin-left: auto;
-    margin-right: 0;
+    width: 130px;
+    margin-left: 600px;
+    margin-right: auto;
     display: block;
+    position: absolute;
+    
 }
