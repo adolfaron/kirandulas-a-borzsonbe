@@ -16,5 +16,10 @@ li{
     font-weight: 500;
 }
 #térlép{
-    img-align: center;
+    }
+ul img{
+    width: 150px;
+    margin-left: auto;
+    margin-right: 0;
+    display: block;
 }
